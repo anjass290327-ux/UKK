@@ -22,7 +22,7 @@
                         <th>Tersedia</th>
                         <th>Kondisi</th>
                         <th>Status</th>
-                        <th>Aksi</th>
+                        <th>Aksi</th>x
                     </tr>
                 </thead>
                 <tbody>
